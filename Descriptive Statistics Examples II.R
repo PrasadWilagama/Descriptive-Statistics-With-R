@@ -1,4 +1,4 @@
-setwd("D://YEAR 2//Y2S2//IT 2110 PRO AND STAT//LAB 5")
+setwd("D://This//IS//Your //Path") #set the path 
 getwd()
 data <-read.table("Data.txt",header = TRUE,sep=",")
 fix(data)
